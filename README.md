@@ -13,7 +13,7 @@
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="20"> The technologies I'm learning for the front-end (JavaScript, Webpack, Babel, React, React Hooks, Redux, HTML5 end CSS3) and back-end (Node, Express, MySQL, MongoDB, PostgreSQL, NextJS end Strapi).
 
   
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -24,10 +24,10 @@
 </br>
 
 
-📈 my github stats
+📈 My github stats
 
 <div>
   <a href="https://github.com/MatheusDario">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MatheusDario&show_icons=true&theme=dark"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDario&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusDario&show_icons=true&theme=dark"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDario&theme=dark"/>
 </div>
