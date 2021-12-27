@@ -28,6 +28,6 @@
 
 <div>
   <a href="https://github.com/MatheusDario">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=MatheusDario&show_icons=true&theme=dark"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDario&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MatheusDario&show_icons=true&theme=dark"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDario&theme=dark"/>
 </div>
