@@ -24,10 +24,4 @@
 </br>
 
 
-📈 My github stats
 
-<div>
-  <a href="https://github.com/MatheusDario">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusDario&show_icons=true&theme=dark"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDario&theme=dark"/>
-</div>
