@@ -10,8 +10,6 @@
 
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> Hi, i'm [Matheus Dario](https://github.com/MatheusDario), a Java development in segment backend.
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif width="20"> I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community.
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif width="20"> The technologies I'm learning for the front-end (JavaScript, Webpack, Babel, React, React Hooks, Redux, HTML5 end CSS3) and back-end (Node, Express, MySQL, MongoDB, PostgreSQL, NextJS end Strapi).
-
   
 **Languages and tools:**  
 
