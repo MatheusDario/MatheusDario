@@ -8,5 +8,5 @@ I'm Matheus Dario, a Jr Web Developer from Brazil. </a><img src="https://media.g
 
 ## Skils
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, NextJS
-- 💽 MySQL, SQL, Mongo
+- ⚙️ React, NextJS, Strapi
+- 💽 MySQL, SQL, Mongo, Postgres
